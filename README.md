@@ -1,6 +1,6 @@
 ## Hi there! I'm HaxSam / Hax5am 👋
 
-\</BR34K>
+so lets go
 
 ## About Me 😄
 
