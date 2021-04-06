@@ -16,12 +16,12 @@ Unfortunately I'm often more busy looking for new projects than actually coding 
 
 I'm already stared some Repos, but I would like to mention a few.
 
--[Deno 💘](https://deno.land/)
--[Moon 🌙](https://github.com/kbrsh/moon)
--[Wade 🌊](https://github.com/kbrsh/wade)
--[Tailwindcss 🍃](https://tailwindcss.com/)
--[Reactjs 💙](https://reactjs.org/)
--[PixiJS 🎮](https://www.pixijs.com/)
+- [Deno 💘](https://deno.land/)
+- [Moon 🌙](https://github.com/kbrsh/moon)
+- [Wade 🌊](https://github.com/kbrsh/wade)
+- [Tailwindcss 🍃](https://tailwindcss.com/)
+- [Reactjs 💙](https://reactjs.org/)
+- [PixiJS 🎮](https://www.pixijs.com/)
 
 
 <!--
