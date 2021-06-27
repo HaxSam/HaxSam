@@ -1,8 +1,8 @@
 # Hi there! I'm HaxSam 👋
 
 <p>
-<img height="125" src="https://github-readme-stats.vercel.app/api?username=HaxSam&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical" />
-<img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaxSam&layout=compact&theme=radical" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HaxSam&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaxSam&layout=compact&theme=radical" />
 </p>
 
 ## About Me 😄
