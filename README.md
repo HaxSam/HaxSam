@@ -1,18 +1,17 @@
-<h3 align="center">
- Hello World!
-</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23f26e6e&size=35&center=true&width=1000&height=55&lines=Hello+World!)
 
 <p align="center">
 	<i>
-		I'm 19 years old. </br>
+		I'm HaxSam and I'm 0x13 years old. </br>
 		I mostly program in Javascript or Typescript and use Node.js for that, but I am really looking forward to Deno. </br>
+		At the time I try more low level languages like C++ and Rust, my plan get good!</br>
 		Unfortunately I'm often more busy looking for new projects than actually coding something. </br>
-		"Pretend you're a good programmer"
+		»Pretend you're a good programmer«
 	</i>
 </p>
 
 ```ts
-(yourname) => `Nice to meet you ${yourname}`
+(yourname: string) => `Nice to meet you ${yourname}`
 ```
 	
 <p align="center">
