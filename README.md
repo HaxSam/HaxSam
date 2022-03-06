@@ -6,7 +6,7 @@
 		I mostly program in Javascript or Typescript and use Node.js for that, but I am really looking forward to Deno. </br>
 		At the time I try more low level languages like C++ and Rust, my plan get good!</br>
 		Unfortunately I'm often more busy looking for new projects than actually coding something. </br>
-		»Pretend you're a good programmer«
+		»Always pretend you're a good programmer«
 	</i>
 </p>
 
