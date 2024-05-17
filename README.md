@@ -23,22 +23,12 @@
 
 <p align="center">
 	<a href="https://twitter.com/_haxSam" valign="middle">
-		<img height="10" alt="Twitter Icon" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" />
+		<img height="10" alt="Twitter Icon" src="https://abs.twimg.com/favicons/twitter.3.ico" />
 		@_haxSam
 	</a>
 	/
 	<a href="https://matrix.to/#/@haxsam:matrix.org" valign="middle">
 		<img height="12" alt="Element Icon" src="https://element.io/images/favicon.png" />
 		@haxsam:matrix.org
-	</a>
-	/
-	<a href="https://discordapp.com/users/285016722325372928" valign="middle">
-		<img height="13" alt="Discord Icon" src="https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png" />
-		HaxSam#4819
-	</a>
-	/
-	<a href="https://keybase.io/haxsam" valign="middle">
-		<img height="15" alt="Keybase Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/200px-Keybase_logo_official.svg.png" />
-		HaxSam
 	</a>
 </p>
