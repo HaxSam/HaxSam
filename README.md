@@ -3,15 +3,15 @@
 <p align="center">
 	<i>
 		I'm HaxSam and I'm 0x16 years old. </br>
-		I mostly program in Javascript or Typescript and use Node.js for that, but I am really looking forward to Deno. </br>
-		At the time I try more low level languages like C++ and Rust, my plan get good!</br>
+		I'm a C++/dev dev and program in Rust in my free time. </br>
+		At the time I learn more about Zig and and getting better in embedded Rust </br>
 		Unfortunately I'm often more busy looking for new projects than actually coding something. </br>
 		»Always pretend you're a good programmer«
 	</i>
 </p>
 
-```ts
-(yourname: string) => `Nice to meet you ${yourname}`
+```rs
+fn greeting(&str: yourname) -> Box<str> { format!("Nice to meet you {yourname}").into() }
 ```
 	
 <p align="center">
